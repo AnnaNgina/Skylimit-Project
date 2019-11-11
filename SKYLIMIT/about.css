@@ -1,0 +1,52 @@
+body{
+border-spacing: 10px 10px 10px;
+	background-color:palegreen;
+	border-width: 20px solid palegreen;
+
+	}
+h1 {
+	text-align:center;
+	color:blue;
+	text-underline-position:center;
+	text-align:center;
+	font-family: Goudy stout;
+}
+h2{
+	text-align:center;
+	color:blue;
+	font-family:Goudy Stout;
+	text-align:center;
+}
+h3{
+	text-align:center;
+	color:blue;
+	font-family:Goudy Stout;
+	font-size: 22px;
+	text-align:center;
+
+}
+h4{
+	text-align:center;
+	color:blue;
+	font-family:Goudy Stout;
+	text-align:center;
+font-size: 22px;
+}
+.img{
+	align-items:center;
+	list-style-image: 
+	border-spacing 20px;
+	border-image:cover;
+	image-rendering: cover;
+	border-image-width:cover;
+}
+p{
+	font-size:18px;
+	font-family:times new romans;
+
+}
+pre{
+	font-family: times new roman;
+	font-size: 18px;
+
+}
